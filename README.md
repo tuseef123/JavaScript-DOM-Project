@@ -1,3 +1,3 @@
 # JavaScript-DOM-Project
 
--Tuseef Ashraf [link](https://github.com/tuseef123)
+-Tuseef Ashraf [Github](https://github.com/tuseef123)
